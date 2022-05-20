@@ -2,5 +2,9 @@
   "name": "sk8_share",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "typescript": "^4.6.4"
+  }
 }
